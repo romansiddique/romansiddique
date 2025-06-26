@@ -40,7 +40,7 @@ I’m a passionate **Full Stack Developer** from Bangladesh, currently pursuing 
   <a href="https://github.com/romansiddique" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:romansiddique.dev@gmail.com">
+  <a href="mailto:romansiddique66626@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
