@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co/pZJDqr2/dev-banner.png)
 
 # 👋 Hi, I'm Roman Siddique
-### 💻 Full Stack Web Developer | Diploma Student (CSE)
+### 💻 Full Stack Web Developer | Diploma Student (CST)
 
 ---
 
