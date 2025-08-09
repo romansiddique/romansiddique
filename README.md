@@ -1,4 +1,4 @@
-![Banner]([https://i.ibb.co/pZJDqr2/dev-banner.png](https://i.ibb.co.com/Z1k9SLMX/Linked-In-Banner.png))
+![Banner](https://i.ibb.co.com/Z1k9SLMX/Linked-In-Banner.png)
 
 # 👋 Hi, I'm Roman Siddique
 ### 💻 Full Stack Web Developer | Diploma Student (CST)
@@ -61,4 +61,5 @@ I’m a passionate **Full Stack Developer** from Bangladesh, currently pursuing 
 ---
 
 > 🔥 “Code, Learn, Build, Repeat!”
+
 
